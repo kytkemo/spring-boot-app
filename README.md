@@ -1,7 +1,7 @@
 spring-boot-app
 ===============
 
-Maven archetype for a Spring Boot app (Java 7 + Spring Boot 1.2.3.RELEASE).
+Maven archetype for a Spring Boot app (Java 8 + Spring Boot 1.2.3.RELEASE).
 
 ## Install
 
